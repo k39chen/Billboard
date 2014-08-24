@@ -3,6 +3,7 @@ Billboard
 
 Keep up with the latest Top 40 Billboards in America!
 
+_Pending completion of [Anigiri](https://github.com/k39chen/Anigiri) before dealing with this project too much. Though this project is of great priority and interest._ 
 
 Features
 ------------
