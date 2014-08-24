@@ -9,6 +9,7 @@ Features
 * This application will routinely check on the hottest music on AT40
 * The user will be able to keep track of what music they've listened to, acquired, and like (or disliked)
 * The user will be able to sign in with their Facebook account, so no extra registration required!
+* The user will be able to preview their music with an embedded video right in the application.
 
 Usage
 ------------
